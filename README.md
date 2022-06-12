@@ -8,6 +8,8 @@ The results of the analysis show that bike sharing through subscription is a com
 
 The visuals below provide a series of graphs that show the results indicated above. 
 
+NYC Starting Bikeshare Stations
+![Map of Bike Stations]
 
 
 [link to dashboard](https://public.tableau.com/app/profile/kathleen.yager/viz/NYCBikesharingReview/NYCCitiBikesharingReview?publish=yes)
