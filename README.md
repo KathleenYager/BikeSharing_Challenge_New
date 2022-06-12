@@ -8,6 +8,23 @@ The results of the analysis show that bike sharing through subscription is a com
 
 The visuals below provide a series of graphs that show the results indicated above. 
 
+NYC Starting Stations
+![Bikeshare Starting Point]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\StartingStation.png")
+
+Checkout time for Users by Gender
+![Comparison by of bikeshare by gender]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\Checkout_time_by_Gender.png")
+
+Weekday Usage
+![Heat Map showing usage by days of the week]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\Trips_by_Weekday.png")
+
+Usage by Gender by Weekday
+![Gender comparison by Weekday]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\Trips_by_Gender.png")
+
+Usertype
+![Comparison of userstypes by gender]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\Usertype_by_Gender.png")
+
+NYC Ending Stations
+![Bikeshare Ending Points]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\EndingStations.png")
 
 
 [link to dashboard](https://public.tableau.com/app/profile/kathleen.yager/viz/NYCBikesharingReview/NYCCitiBikesharingReview?publish=yes)
