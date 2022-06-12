@@ -6,12 +6,6 @@ The purpose of the bikesharing project is to analyze bike usage in NYC to consid
 ##  Results:
 The results of the analysis show that bike sharing through subscription is a common practice for people in NYC. Males are among the highest users of the program and often use bikes in short trips on weekdays most often during start and end of workday hours. 
 
-The visuals below provide a series of graphs that show the results indicated above. 
-
-
-
-
-
 [link to dashboard](https://public.tableau.com/app/profile/kathleen.yager/viz/NYCBikesharingReview/NYCCitiBikesharingReview?publish=yes)
 
 ## Summary: 
