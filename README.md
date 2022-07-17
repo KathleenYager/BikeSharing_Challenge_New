@@ -12,6 +12,9 @@ The visuals below provide a series of graphs that show the results indicated abo
 NYC Starting Stations
 ![Bikeshare Starting Point](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/StartingStation.png)
 
+The graph below indicates that bikes are most often checked out for short periods of time.
+![Checkout Times by User](
+
 Checkout time for Users by Gender
 ![Comparison by of bikeshare by gender](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/Checkout_time_by_Gender.png)
 
