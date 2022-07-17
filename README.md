@@ -13,7 +13,7 @@ NYC Starting Stations
 ![Bikeshare Starting Point]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\StartingStation.png")
 
 Checkout time for Users by Gender
-![Comparison by of bikeshare by gender]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\Checkout_time_by_Gender.png")
+![Comparison by of bikeshare by gender](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/Checkout_time_by_Gender.png)
 
 Weekday Usage
 ![Heat Map showing usage by days of the week]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\Trips_by_Weekday.png")
