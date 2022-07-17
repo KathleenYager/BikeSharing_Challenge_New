@@ -20,8 +20,12 @@ The graph below further breaks down checkout time by gender and indicates that m
 Checkout time for Users by Gender
 ![Comparison by of bikeshare by gender](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/Checkout_time_by_Gender.png)
 
+The heatmap below shows the highest concentration of bike rentals occurs between 7-9 a.m. and 5-7 p.m. weekdays. Weekend rentals show a consistent usage between the hours of 9 a.m.-7 p.m.
+
 Weekday Usage
 ![Heat Map showing usage by days of the week](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/Trips_by_Weekday.png)
+
+Breaking the usage down by gender indicates that males are more likely to rent bikes than females or those persons choosing not to identify a gender. 
 
 Usage by Gender by Weekday
 ![Gender comparison by Weekday](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/Trips_by_Gender.png)
@@ -29,10 +33,12 @@ Usage by Gender by Weekday
 Usertype
 ![Comparison of userstypes by gender](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/Usertype_by_Gender.png)
 
+The chart below suggests that bike returns occur at the same stations to where they were initially rented. This may be a result of renters using bikes stations located in their neighborhoods. 
+
 NYC Ending Stations
 ![Bikeshare Ending Points](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/EndingStations.png)
 
-
+The link below allows access to the public dashboard showing bike rental information in New York City. 
 
 [link to dashboard](https://public.tableau.com/app/profile/kathleen.yager/viz/NYCBikesharingReview/NYCCitiBikesharingReview?publish=yes)
 
