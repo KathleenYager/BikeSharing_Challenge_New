@@ -22,7 +22,7 @@ Usage by Gender by Weekday
 ![Gender comparison by Weekday]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\Trips_by_Gender.png")
 
 Usertype
-![Comparison of userstypes by gender](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/Usertype_by_Gender.png")
+![Comparison of userstypes by gender](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/Usertype_by_Gender.png)
 
 NYC Ending Stations
 ![Bikeshare Ending Points](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/EndingStations.png)
