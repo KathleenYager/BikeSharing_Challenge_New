@@ -15,7 +15,7 @@ NYC Starting Stations
 The graph below indicates that bikes are most often checked out for short periods of time.
 ![Checkout Times by User](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/Checkout_time_for_users.png)
 
-The graph below further breaks down checkout time by gender. 
+The graph below further breaks down checkout time by gender. The chart shows males rent bikes more often than females or persons perferring not to identify their gender. 
 
 Checkout time for Users by Gender
 ![Comparison by of bikeshare by gender](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/Checkout_time_by_Gender.png)
