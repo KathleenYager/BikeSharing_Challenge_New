@@ -25,7 +25,7 @@ Usertype
 ![Comparison of userstypes by gender]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\Usertype_by_Gender.png")
 
 NYC Ending Stations
-![Bikeshare Ending Points]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\EndingStations.png")
+![Bikeshare Ending Points](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/EndingStations.png)
 
 
 
