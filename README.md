@@ -10,7 +10,7 @@ The results of the analysis show that bike sharing through subscription is a com
 The visuals below provide a series of graphs that show the results indicated above. 
 
 NYC Starting Stations
-![Bikeshare Starting Point]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_14_Tableau\resources\StartingStation.png")
+![Bikeshare Starting Point](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/StartingStation.png)
 
 Checkout time for Users by Gender
 ![Comparison by of bikeshare by gender](https://github.com/KathleenYager/BikeSharing_Challenge_New/blob/main/resources/Checkout_time_by_Gender.png)
